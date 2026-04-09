@@ -3,7 +3,7 @@
 ## 1. Identificação
 * **Curso:** Engenharia da Computação
 * **Disciplina:** RAD em Python
-* **Equipe:** *
+* **Equipe:** 
     * **Devs:** Cláudio dos Santos, Emerson Fabrício.
     * **Analista:** Lucas Nascimento.
     * **Clientes:** João David, Veida Nayarê.
