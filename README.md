@@ -4,7 +4,7 @@
 * **Curso:** Engenharia da Computação
 * **Disciplina:** RAD em Python
 * **Equipe:** 
-    * **Devs:** Cláudio dos Santos, Emerson Fabrício.
+    * **Devs:** Cláudio dos Santos, Emerson Fabrício, Gabriel Cavalcante
     * **Analista:** Lucas Nascimento.
     * **Clientes:** João David, Veida Nayarê.
 
