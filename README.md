@@ -21,7 +21,7 @@ Realizamos uma sessão de brainstorming colaborativo onde os Clientes definiram 
 Levantamento de Requisitos: Foram identificadas necessidades como autoatendimento via totem para evitar superlotação, categorias de cardápio e personalização de pedidos.
 Regra de Negócio Inicial: O sistema deve realizar o cálculo total do pedido automaticamente e apresentar os pratos/lanches mais vendidos do dia.
 
-##  5. Funcionalidades Planejadas (
+##  5. Funcionalidades Planejadas 
 
 Com base nas sessões JAD, o sistema contará com:
 * **Módulo de Usuário:** Tela de login e acompanhamento de pedido via Token.
