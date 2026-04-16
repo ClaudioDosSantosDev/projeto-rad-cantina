@@ -16,9 +16,10 @@ Desenvolver um protótipo funcional para gerenciamento de pedidos de uma cantina
 * **Miro (Levantamento JAD):** https://miro.com/app/board/uXjVGlf_mzE=/?share_link_id=377960545202
 * **Figma (Protótipo Visual):** https://www.figma.com/site/1aIPHmAD2AL7iQL8djpgNA/PROTOTIPO-CANTINA?node-id=0-1&t=fSeWFEJd8oXDJ7Dv-1
 
-## 4. Metodologia JAD em Execução
-Nesta fase inicial, o Analista e os Clientes estão realizando o levantamento de requisitos via Miro. Os desenvolvedores estão acompanhando as sessões para garantir a viabilidade técnica no Figma.
-* **Regra de Negócio Inicial:** [EX: Desconto de 10% para pagamentos via PIX].
+##  4. Metodologia JAD em Execução
+Realizamos uma sessão de brainstorming colaborativo onde os Clientes definiram as necessidades do sistema, o Analista mediou os desejos dos clientes e os Desenvolvedores avaliaram a viabilidade técnica.
+Levantamento de Requisitos: Foram identificadas necessidades como autoatendimento via totem para evitar superlotação, categorias de cardápio e personalização de pedidos.
+Regra de Negócio Inicial: O sistema deve realizar o cálculo total do pedido automaticamente e apresentar os pratos/lanches mais vendidos do dia.
 
 ## 5. Próximos Passos (Funcionalidades)
 - [ ] Criar interface de Menu Principal no Figma.
