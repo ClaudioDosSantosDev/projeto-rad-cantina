@@ -21,7 +21,17 @@ Realizamos uma sessão de brainstorming colaborativo onde os Clientes definiram 
 Levantamento de Requisitos: Foram identificadas necessidades como autoatendimento via totem para evitar superlotação, categorias de cardápio e personalização de pedidos.
 Regra de Negócio Inicial: O sistema deve realizar o cálculo total do pedido automaticamente e apresentar os pratos/lanches mais vendidos do dia.
 
-## 5. Próximos Passos (Funcionalidades)
+##  5. Funcionalidades Planejadas (
+
+Com base nas sessões JAD, o sistema contará com:
+* **Módulo de Usuário:** Tela de login e acompanhamento de pedido via Token.
+* **Catálogo Inteligente:** Cardápio categorizado com descrição de produtos e vitrine de "Mais Vendidos".
+* **Personalização RAD:** Sistema para customizar ingredientes do pedido.
+* **Fidelização:** Página de pontos e programa de fidelidade para clientes frequentes.
+* **Checkout:** Carrinho de compras com múltiplos métodos de pagamento.
+* **Interface Totem:** Design adaptado para terminais de autoatendimento.
+
+## 6. Próximos Passos (Funcionalidades)
 - [ ] Criar interface de Menu Principal no Figma.
 - [ ] Mapear fluxo de Cadastro/Edição de produtos.
 - [ ] Validar protótipo com os Clientes (João e Veida).
