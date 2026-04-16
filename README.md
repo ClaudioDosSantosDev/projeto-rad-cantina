@@ -1,4 +1,4 @@
-# Projeto RAD - Sistema de Cantina
+# Projeto RAD - Sistema de Cantina do Pará lanches
 
 ## 1. Identificação
 * **Curso:** Engenharia da Computação
