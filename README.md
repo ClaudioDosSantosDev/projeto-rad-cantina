@@ -15,6 +15,8 @@ Desenvolver um protótipo funcional para gerenciamento de pedidos de uma cantina
 * **Trello (Gestão RAD):** https://trello.com/invite/b/69d7bdb4b66c19b2adca10e5/ATTIbd9025efcd5f7fffdcb30f50231c026815B6427D/projeto-rad-sistema-de-cantina-do-para-lanches
 * **Miro (Levantamento JAD):** https://miro.com/app/board/uXjVGlf_mzE=/?share_link_id=377960545202
 * **Figma (Protótipo Visual):** https://www.figma.com/site/1aIPHmAD2AL7iQL8djpgNA/PROTOTIPO-CANTINA?node-id=0-1&t=fSeWFEJd8oXDJ7Dv-1
+* **Primeiro Relatório** <img width="1466" height="823" alt="image" src="https://github.com/user-attachments/assets/5c9ff9b5-b207-445e-8207-6a5509dcfaad" />
+
 
 ##  4. Metodologia JAD em Execução
 Realizamos uma sessão de brainstorming colaborativo onde os Clientes definiram as necessidades do sistema, o Analista mediou os desejos dos clientes e os Desenvolvedores avaliaram a viabilidade técnica.
