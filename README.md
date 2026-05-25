@@ -33,5 +33,3 @@ Com base nas sessões JAD, o sistema contará com:
 * **Checkout:** Carrinho de compras com múltiplos métodos de pagamento.
 * **Interface Totem:** Design adaptado para terminais de autoatendimento.
 
-## 6. Link do Slide
-
